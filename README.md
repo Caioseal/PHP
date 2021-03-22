@@ -20,3 +20,5 @@ You will also find intermediate exercises about:
 - Inheritance
 - Abstract Classes
 - Interfaces
+
+Note: All variables names and functions are in portuguese.
